@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/VeeCorderz2/app/src/main/res/drawable/btn1_color.xml" value="0.24027777777777778" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/VeeCorderz2/app/src/main/res/drawable/btn2_color.xml" value="0.24027777777777778" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/VeeCorderz2/app/src/main/res/drawable/btn3_clolor.xml" value="0.24027777777777778" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/VeeCorderz2/app/src/main/res/drawable/btn3_color.xml" value="0.24027777777777778" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/VeeCorderz2/app/src/main/res/layout/activity_level1.xml" value="0.176" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/VeeCorderz2/app/src/main/res/layout/activity_level2.xml" value="0.18935185185185185" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/VeeCorderz2/app/src/main/res/layout/activity_level3.xml" value="0.18935185185185185" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/VeeCorderz2/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/VeeCorderz2/app/src/main/res/layout/activity_sample.xml" value="0.22592592592592592" />
+        <entry key="..\:/Users/User/Documents/GitHub/VeeCorderz2/app/src/main/res/layout/activity_main.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
