@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MAD Project 02</string>
+    <string name="pic_applogo">MathsForest Logo</string>
+    <string name="tv_username">Username</string>
+    <string name="pw_loginpassword">Password</string>
+    <string name="tv_register">Don\'t You have any MathsForest Account</string>
+    <string name="btn_login">Sign In</string>
+    <string name="btn_register">Join With Us</string>
+    <string name="tv_emailaddress">Add Your Email</string>
+    <string name="tv_newusername">Enter A Username</string>
+    <string name="pw_newpassword">Enter A Password</string>
+    <string name="tv_welcome">Hi! Welcome To MathsForest...</string>
+    <string name="btn_registeration">Sign Up</string>
+</resources>
