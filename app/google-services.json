@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "862380377657",
+    "firebase_url": "https://veecoderzfeedback-e1eb6-default-rtdb.firebaseio.com",
+    "project_id": "veecoderzfeedback-e1eb6",
+    "storage_bucket": "veecoderzfeedback-e1eb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862380377657:android:7068064a62b996fa15efe8",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862380377657-2nnm0b25vgcu5cj1015l6tk60dkn67b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnkbdfp-MXpEou9B0_nSb70-eJPdPfrBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862380377657-2nnm0b25vgcu5cj1015l6tk60dkn67b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
