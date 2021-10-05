@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img23"
+    tools:context=".Lessons">
+
+    <Button
+        android:id="@+id/btn_lvl2"
+        android:layout_width="277dp"
+        android:layout_height="112dp"
+        android:layout_marginTop="22dp"
+        android:backgroundTint="#4E7E78"
+        android:text="Level 2"
+        android:textSize="34sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_lvl1" />
+
+    <Button
+        android:id="@+id/btn_lvl3"
+        android:layout_width="272dp"
+        android:layout_height="106dp"
+        android:layout_marginTop="18dp"
+        android:backgroundTint="#1A8331"
+        android:text="Level 3"
+        android:textSize="34sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_lvl2"
+        app:layout_constraintVertical_bias="0.038" />
+
+    <Button
+        android:id="@+id/btn_lvl1"
+        android:layout_width="282dp"
+        android:layout_height="110dp"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#db5a6b"
+        android:text="Level 1"
+        android:textSize="34sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.457"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="331dp"
+        android:layout_height="115dp"
+        android:layout_marginTop="76dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/subtraction" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="325dp"
+        android:layout_height="75dp"
+        android:background="#BCB387"
+        android:text="Lessons"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="50dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+</androidx.constraintlayout.widget.ConstraintLayout>
